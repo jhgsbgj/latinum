@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE LATINUMSE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUM&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE LATINUME!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,7 +270,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Latinum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your latinums from being stolen by malware infecting your computer.</source>
+        <source>Latinum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your latinum from being stolen by malware infecting your computer.</source>
         <translation>Latinum će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše latinume od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>

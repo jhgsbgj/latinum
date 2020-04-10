@@ -243,7 +243,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUM&lt;/b&gt;!</source>
         <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE LATINUMY&lt;/b&gt;!⏎</translation>
     </message>
     <message>
@@ -270,7 +270,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Latinum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your latinums from being stolen by malware infecting your computer.</source>
+        <source>Latinum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your latinum from being stolen by malware infecting your computer.</source>
         <translation>Latinum sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred kráďežou latinumov pomocou škodlivého software.</translation>
     </message>
     <message>
@@ -415,7 +415,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Latinum address</source>
-        <translation>Poslať latinums na adresu</translation>
+        <translation>Poslať latinum na adresu</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1334,7 +1334,7 @@ Adresa: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie latinums</translation>
+        <translation>Potvrdiť odoslanie latinum</translation>
     </message>
     <message>
         <location line="+1"/>
