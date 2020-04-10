@@ -1,25 +1,27 @@
 Latinum integration/staging tree
 ================================
 
-http://www.latinum.org
+http://www.latinum.ca
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Latinum Developers
+Copyright (c) Bitcoin Developers
+Copyright (c) Litecoin Developers
+Copyright (c) Latinum Developers
+
 
 What is Latinum?
 ----------------
 
-Latinum is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Latinum is a version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 1m blocks (~5 years)
+ - ~100 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Latinum client sofware, see http://www.latinum.org.
+the Latinum client sofware, see http://www.latinum.ca.
 
 License
 -------
