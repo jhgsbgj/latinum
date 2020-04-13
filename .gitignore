@@ -1,1 +1,8 @@
+#BINARIES
+latinum-qt
 src/latinumd
+build/qrc_bitcoin.o
+
+#GENERATED CONFIG FILES
+qrc_bitcoin.cpp
+Makefile
