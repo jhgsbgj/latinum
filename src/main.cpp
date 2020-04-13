@@ -1096,8 +1096,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 48 * 60 * 60; // Adjust difficulty every 48 hours
-static const int64 nTargetSpacing = 2 * 60; // 2 minute blocks
+static const int64 nTargetTimespan = 48 * 60 * 60; // Latinum: Adjust difficulty every 48 hours
+static const int64 nTargetSpacing = 2 * 60; // Latinum: 2 minute blocks
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
@@ -1900,7 +1900,7 @@ bool SetBestChain(CValidationState &state, CBlockIndex* pindexNew)
     }
 
     // Update best block in wallet (so we can detect restored wallets)
-    if ((pindexNew->nHeight % 20160) == 0 || (!fIsInitialDownload && (pindexNew->nHeight % 144) == 0))
+    if ((pindexNew->nHeight % 14400) == 0 || (!fIsInitialDownload && (pindexNew->nHeight % 144) == 0))
     {
         const CBlockLocator locator(pindexNew);
         ::SetBestChain(locator);
