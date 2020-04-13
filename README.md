@@ -18,7 +18,7 @@ Latinum is a version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 1440 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Latinum client sofware, see http://www.latinum.ca.
